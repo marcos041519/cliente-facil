@@ -23,5 +23,4 @@ Sistema de cadastro de clientes simples, funcional e responsivo, desenvolvido co
 ## 👨‍💻 Autor
 
 **Marcos Antonio Oliveira Costa**  
-RA: 325102529  
 Universidade Nove de Julho
